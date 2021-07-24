@@ -1,0 +1,26 @@
+body {
+    background-color: navy;
+    color: white;
+}
+img {
+    width: 400px;
+    height: 300px
+}
+
+.maindiv {
+    background-color: turquoise;
+    padding: 20px;
+    font-size: 25px;
+}
+span {
+    color: midnightblue;
+    font-size: 25px;
+    font-style: italic;
+}
+.finalOutput, .minioutput {
+    background-color: steelblue;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 30px;
+}
